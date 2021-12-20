@@ -42,7 +42,7 @@ print(txt)
 
 ## Downloads
 
-[bintxt_v1.0.0.zip](https://Python-Scripts.akhilpil0308.repl.co/files/bintxt_v1.0.0.zip)
+[bintxt_v1.0.0.zip](downloads/bintxt_v1.0.0.zip)
 
 ---
 
